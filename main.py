@@ -2,6 +2,7 @@
 
 # ALIA/main.py
 
+print("ALIA project has been initialized.")
 import time
 import random
 from .utils.speech_io import speak, listen
